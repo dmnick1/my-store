@@ -7,7 +7,7 @@ import { Search, ShoppingCart, X, Plus, Minus, ChevronRight, FlaskConical, Beake
 const CATEGORIES = ["Peptides", "Aminos", "Blends", "Supplements", "Supplies"];
 
 const PRODUCTS = [
-  { id: "p1", name: "BPC-157", category: "Peptides", batch: "BP-1157", purity: "99.1%", size: "5mg", price: 42, stock: 34, rating: 4.9, blurb: "Stabilized lyophilized vial, cold-chain shipped." },
+  { id: "p1", name: "BPC-157", category: "Peptides", batch: "BP-1157", purity: "99.1%", size: "5mg", price: 99, stock: 34, rating: 4.9, blurb: "Stabilized lyophilized vial, cold-chain shipped." },
   { id: "p2", name: "TB-500", category: "Peptides", batch: "BP-2500", purity: "98.7%", size: "5mg", price: 48, stock: 21, rating: 4.8, blurb: "Fragment-form synthetic peptide, sealed under argon." },
   { id: "p3", name: "GHK-Cu", category: "Peptides", batch: "BP-3064", purity: "99.4%", size: "50mg", price: 36, stock: 40, rating: 4.7, blurb: "Copper-complexed tripeptide, third-party assayed." },
   { id: "p4", name: "Ipamorelin", category: "Peptides", batch: "BP-4212", purity: "99.0%", size: "5mg", price: 39, stock: 18, rating: 4.9, blurb: "Pentapeptide, single-source synthesis." },
